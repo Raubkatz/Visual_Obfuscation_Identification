@@ -1,7 +1,7 @@
 # Visual_Obfuscation_Identification
 Repository for the corresponding paper on visual obfuscation identification
 
-## Author: Sebastian Raubitzek, Sebastian Schrittwieser
+## Authors: Sebastian Raubitzek, Sebastian Schrittwieser
 
 ## Overview
 
