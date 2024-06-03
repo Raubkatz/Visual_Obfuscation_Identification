@@ -15,9 +15,13 @@ The primary components of this project are:
 ## Repository Structure
 
 ├── README.md
+
 ├── 01_build_complexity_dataset_from_images.py
+
 ├── 02_perform_ML_ExtraTrees.py
+
 ├── ML_data
+
 ├── image_data
 
 ### Prerequisites
