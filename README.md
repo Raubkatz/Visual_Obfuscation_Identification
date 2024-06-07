@@ -5,7 +5,7 @@ Repository for the corresponding paper on visual obfuscation identification
 
 ## Overview
 
-This repository contains two comprehensive scripts for machine learning and complexity analysis of matrices derived from image data.
+This repository contains two scripts for machine learning and complexity analysis of matrices derived from image data.
 Binaries and their images are classified into different categories based on groupings, these groupings are parameterized individually in each script.
 The primary components of this project are:
 
